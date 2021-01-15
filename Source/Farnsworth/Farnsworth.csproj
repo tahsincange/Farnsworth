@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Build">
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Package">
+    <Product>Farnsworth</Product>
+    <Description>Quick way to build  MQ based distributed .NET applications</Description>
+    <PackageTags>Tag1;Tag2;Tag3</PackageTags>
+  </PropertyGroup>
+
+</Project>
