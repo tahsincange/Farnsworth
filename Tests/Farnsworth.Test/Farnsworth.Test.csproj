@@ -4,8 +4,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup Label="Project References">
-    <ProjectReference Include="..\..\Source\Farnsworth\Farnsworth.csproj" />
+  <ItemGroup>
+    <ProjectReference Include="..\..\Source\Farnsworth.Api\Farnsworth.Api.csproj" />
   </ItemGroup>
 
 </Project>
