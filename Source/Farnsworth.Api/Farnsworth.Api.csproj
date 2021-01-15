@@ -2,6 +2,11 @@
 
   <PropertyGroup Label="Build">
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Farnsworth.Api</AssemblyName>
+    <RootNamespace>Farnsworth.Api</RootNamespace>
+    <PackageId>Farnsworth.Api</PackageId>
+    <Authors>tahsincange</Authors>
+    <Company>tahsincange</Company>
   </PropertyGroup>
 
   <PropertyGroup Label="Package">
