@@ -1,4 +1,4 @@
-namespace Farnsworth.Api
+﻿namespace Farnsworth.Core.Mq
 {
     /// <summary>
     /// Some class.

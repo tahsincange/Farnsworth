@@ -7,6 +7,9 @@
     <PackageId>Farnsworth.Api</PackageId>
     <Authors>tahsincange</Authors>
     <Company>tahsincange</Company>
+    <Copyright>Copyright © 2021 tahsincange. All rights Reserved</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIconUrl>Icon.png</PackageIconUrl>
   </PropertyGroup>
 
   <PropertyGroup Label="Package">

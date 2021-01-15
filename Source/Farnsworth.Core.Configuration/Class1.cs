@@ -1,4 +1,4 @@
-namespace Farnsworth.Api
+﻿namespace Farnsworth.Core.Configuration
 {
     /// <summary>
     /// Some class.

@@ -1,7 +1,7 @@
-namespace Farnsworth.Api
+﻿namespace Farnsworth.Gateway
 {
     /// <summary>
-    /// Some class.
+    /// Some Class.
     /// </summary>
     public class Class1
     {
