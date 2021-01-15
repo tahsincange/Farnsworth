@@ -1,11 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-    <PropertyGroup>
-        <TargetFramework>net5.0</TargetFramework>
-        <Authors>tahsincange</Authors>
-        <Description>Quick way to build  MQ based distributed .NET applications</Description>
-        <Copyright>Copyright © 2021 tahsincange. All rights Reserved</Copyright>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>tahsincange</Authors>
+    <Description>Quick way to build MQ based distributed .NET applications</Description>
+    <Copyright>Copyright © 2021 tahsincange. All rights Reserved</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIconUrl>Icon.png</PackageIconUrl>
+  </PropertyGroup>
 
 </Project>

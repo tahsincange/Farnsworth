@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-    <PropertyGroup>
-        <TargetFramework>net5.0</TargetFramework>
-        <Authors>tahsincange</Authors>
-        <Description>Quick way to build  MQ based distributed .NET applications</Description>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>tahsincange</Authors>
+    <Description>Quick way to build MQ based distributed .NET applications</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIconUrl>Icon.png</PackageIconUrl>
+  </PropertyGroup>
 
 </Project>

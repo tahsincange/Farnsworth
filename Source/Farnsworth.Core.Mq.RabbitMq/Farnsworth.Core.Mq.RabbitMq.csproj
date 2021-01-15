@@ -5,6 +5,7 @@
         <Authors>tahsincange</Authors>
         <Description>Quick way to build  MQ based distributed .NET applications</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+      <PackageIconUrl>Icon.png</PackageIconUrl>
     </PropertyGroup>
 
 </Project>
