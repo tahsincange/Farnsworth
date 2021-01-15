@@ -1,6 +1,6 @@
 namespace Farnsworth.Test
 {
-    using Farnsworth;
+    using Farnsworth.Api;
     using Xunit;
 
     public class Class1Test

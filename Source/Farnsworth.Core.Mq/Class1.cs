@@ -1,7 +1,8 @@
-﻿using System;
-
-namespace Farnsworth.Core.Mq
+﻿namespace Farnsworth.Core.Mq
 {
+    /// <summary>
+    /// Some class.
+    /// </summary>
     public class Class1
     {
     }

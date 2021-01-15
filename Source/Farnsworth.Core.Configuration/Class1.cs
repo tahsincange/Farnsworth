@@ -1,7 +1,8 @@
-﻿using System;
-
-namespace Farnsworth.Core.Configuration
+﻿namespace Farnsworth.Core.Configuration
 {
+    /// <summary>
+    /// Some class.
+    /// </summary>
     public class Class1
     {
     }
