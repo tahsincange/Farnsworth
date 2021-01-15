@@ -4,7 +4,7 @@
         <TargetFramework>net5.0</TargetFramework>
         <Authors>tahsincange</Authors>
         <Description>Quick way to build  MQ based distributed .NET applications</Description>
-        <PackageLicenseUrl>https://github.com/tahsincange/Farnsworth/blob/main/LICENSE.md</PackageLicenseUrl>
+      <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
 </Project>
