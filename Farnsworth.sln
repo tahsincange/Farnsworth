@@ -78,6 +78,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farnsworth.Gateway", "Sourc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farnsworth.Core.Configuration", "Source\Farnsworth.Core.Configuration\Farnsworth.Core.Configuration.csproj", "{30C67B02-45B8-4391-85DE-05ABBB8DBB7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farnsworth.Core.Mq", "Source\Farnsworth.Core.Mq\Farnsworth.Core.Mq.csproj", "{540D11F3-8180-4024-B0E4-A377C3CFAB0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{30C67B02-45B8-4391-85DE-05ABBB8DBB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30C67B02-45B8-4391-85DE-05ABBB8DBB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30C67B02-45B8-4391-85DE-05ABBB8DBB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540D11F3-8180-4024-B0E4-A377C3CFAB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540D11F3-8180-4024-B0E4-A377C3CFAB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540D11F3-8180-4024-B0E4-A377C3CFAB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540D11F3-8180-4024-B0E4-A377C3CFAB0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{3B53DA4C-8106-4FD3-81D8-D01AA2DB364D} = {719809C2-A551-4C4A-9EFD-B10FB5E35BC0}
 		{B27EA536-8DD5-48EC-8F9E-7A7B90483C49} = {719809C2-A551-4C4A-9EFD-B10FB5E35BC0}
 		{30C67B02-45B8-4391-85DE-05ABBB8DBB7C} = {719809C2-A551-4C4A-9EFD-B10FB5E35BC0}
+		{540D11F3-8180-4024-B0E4-A377C3CFAB0F} = {719809C2-A551-4C4A-9EFD-B10FB5E35BC0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73F36209-F8D6-4066-8951-D97729F773CF}
